@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "Apresentacao.html",
+    "href": "Apresentacao.html",
+    "title": "Análise de Energia e Poluição",
+    "section": "",
+    "text": "Foram utilizadas três variáveis na presente apresentação:\n\nAcesso a Combustíveis e Tecnologias Limpas Para Cozimento (% da população) (EG.CFT.ACCS.ZS)\n\nConsumo de Energia Elétrica (kWh per capita) (EG.USE.ELEC.KH.PC)\n\nExposição Anual à Poluição por PM2.5 (microgramas por metro cúbico) (EN.ATM.PM25.MC.M3)\n\n\nOs dados foram obtidos a partir dos indicadores de desenvolvimento do Banco Mundial (World Bank 2025)."
+  },
+  {
+    "objectID": "Apresentacao.html#variáveis",
+    "href": "Apresentacao.html#variáveis",
+    "title": "Análise de Energia e Poluição",
+    "section": "",
+    "text": "Foram utilizadas três variáveis na presente apresentação:\n\nAcesso a Combustíveis e Tecnologias Limpas Para Cozimento (% da população) (EG.CFT.ACCS.ZS)\n\nConsumo de Energia Elétrica (kWh per capita) (EG.USE.ELEC.KH.PC)\n\nExposição Anual à Poluição por PM2.5 (microgramas por metro cúbico) (EN.ATM.PM25.MC.M3)\n\n\nOs dados foram obtidos a partir dos indicadores de desenvolvimento do Banco Mundial (World Bank 2025)."
+  },
+  {
+    "objectID": "Apresentacao.html#gráfico-com-dados-em-painel",
+    "href": "Apresentacao.html#gráfico-com-dados-em-painel",
+    "title": "Análise de Energia e Poluição",
+    "section": "GRÁFICO COM DADOS EM PAINEL",
+    "text": "GRÁFICO COM DADOS EM PAINEL\nA partir dos dados em painel, foi escolhido realizar uma breve análise da correlação entre entre as três variáveis escolhidas. A partir delas podemos verificar:\n\nA. Há uma relação positiva entre Consumo Elétrico Per Capita e Acesso a Fontes e Combustíveis Limpos;\n\nB. Há uma relação negativa entre Exposição a PM2.5 e Consumo Elétrico Per Capita, e também negativa da primeira com Acesso a Fontes e Combustíveis Limpos."
+  },
+  {
+    "objectID": "Apresentacao.html#gráfico-com-série-temporal",
+    "href": "Apresentacao.html#gráfico-com-série-temporal",
+    "title": "Análise de Energia e Poluição",
+    "section": "GRÁFICO COM SÉRIE TEMPORAL",
+    "text": "GRÁFICO COM SÉRIE TEMPORAL\nO Brasil foi escolhido para a realização da extração dos dados da série temporal e subsequente criação dos gráficos. Logo abaixo temos dois visuais demonstrando a evolução no país da Exposição a PM2.5 e também do Consumo Elétrico Per Capita."
+  },
+  {
+    "objectID": "Apresentacao.html#gráfico-com-corte-transversal",
+    "href": "Apresentacao.html#gráfico-com-corte-transversal",
+    "title": "Análise de Energia e Poluição",
+    "section": "GRÁFICO COM CORTE TRANSVERSAL",
+    "text": "GRÁFICO COM CORTE TRANSVERSAL\nPara a série temporal foi feito o corte do ano de 2020 para as três variáveis. A análise escolhida propõe a verificação do comportamento do Acesso a Fontes e Combustíveis Limpos, Consumo Elétrico Per Capita e Exposição a PM2.5 nas diferentes regiões do mundo."
+  }
+]
